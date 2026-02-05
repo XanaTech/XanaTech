@@ -67,9 +67,6 @@ Innovation is stronger when built together.
 ### 🔥 Recent Activity
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=XanaTech&theme=github-dark)
 
-### 🚀 Latest Repositories
-![Latest Repos](https://github-contributor-stats.vercel.app/api?username=XanaTech&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 
 ## 🧰 Tech Focus
