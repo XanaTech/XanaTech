@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://i.postimg.cc/nhkDDMS7/logo_sin_fondo3.png" alt="logo"/>
+</p>
+
 <h1 align="center">🚀 XanaTech</h1>
 <p align="center">
 Automation • Trading Systems • Tools • Innovation
